@@ -614,6 +614,7 @@
   
   .block__header {
     text-align: center;
+    margin-bottom: 4rem;
   }
   
   .block__heading {
@@ -810,4 +811,5 @@
       max-width: 700px;
     }
   }
+  /* Testimonials Block */
   
